@@ -1,4 +1,4 @@
-<div align=center>    
+   
 <style>
 img{
      border-radius:8px;
@@ -25,6 +25,5 @@ img{
 <img src="https://static.vaeal.com/valfans/202308020203715.webp"/>
 <img src="https://static.vaeal.com/valfans/202308020203714.webp"/>
 <img src="https://static.vaeal.com/valfans/202308020203713.png"/>
-</div>
 </div>
 </div>
