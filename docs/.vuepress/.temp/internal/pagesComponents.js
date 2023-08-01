@@ -51,26 +51,6 @@ export const pagesComponents = {
   "v-11434676": defineAsyncComponent(() => import(/* webpackChunkName: "v-11434676" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/hero/Sova.html.vue")),
   // path: /hero/Viper.html
   "v-4f8bfecb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f8bfecb" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/hero/Viper.html.vue")),
-  // path: /model/
-  "v-ec2f0342": defineAsyncComponent(() => import(/* webpackChunkName: "v-ec2f0342" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/model/index.html.vue")),
-  // path: /maps/Ascent.html
-  "v-05f5cda0": defineAsyncComponent(() => import(/* webpackChunkName: "v-05f5cda0" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Ascent.html.vue")),
-  // path: /maps/Bind.html
-  "v-1ad5e05d": defineAsyncComponent(() => import(/* webpackChunkName: "v-1ad5e05d" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Bind.html.vue")),
-  // path: /maps/Breeze.html
-  "v-304c02ff": defineAsyncComponent(() => import(/* webpackChunkName: "v-304c02ff" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Breeze.html.vue")),
-  // path: /maps/Fracture.html
-  "v-583ae850": defineAsyncComponent(() => import(/* webpackChunkName: "v-583ae850" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Fracture.html.vue")),
-  // path: /maps/Haven.html
-  "v-356a7712": defineAsyncComponent(() => import(/* webpackChunkName: "v-356a7712" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Haven.html.vue")),
-  // path: /maps/Icebox.html
-  "v-d5b9724c": defineAsyncComponent(() => import(/* webpackChunkName: "v-d5b9724c" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Icebox.html.vue")),
-  // path: /maps/Lotus.html
-  "v-ad1039ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-ad1039ee" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Lotus.html.vue")),
-  // path: /maps/Pearl.html
-  "v-4f965ed2": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f965ed2" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Pearl.html.vue")),
-  // path: /maps/Split.html
-  "v-339f147e": defineAsyncComponent(() => import(/* webpackChunkName: "v-339f147e" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Split.html.vue")),
   // path: /line/Agent.html
   "v-6db9f1f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-6db9f1f6" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/line/Agent.html.vue")),
   // path: /line/Astra.html
@@ -117,6 +97,26 @@ export const pagesComponents = {
   "v-6310f5f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-6310f5f0" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/line/Sova.html.vue")),
   // path: /line/Viper.html
   "v-37743e91": defineAsyncComponent(() => import(/* webpackChunkName: "v-37743e91" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/line/Viper.html.vue")),
+  // path: /maps/Ascent.html
+  "v-05f5cda0": defineAsyncComponent(() => import(/* webpackChunkName: "v-05f5cda0" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Ascent.html.vue")),
+  // path: /maps/Bind.html
+  "v-1ad5e05d": defineAsyncComponent(() => import(/* webpackChunkName: "v-1ad5e05d" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Bind.html.vue")),
+  // path: /maps/Breeze.html
+  "v-304c02ff": defineAsyncComponent(() => import(/* webpackChunkName: "v-304c02ff" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Breeze.html.vue")),
+  // path: /maps/Fracture.html
+  "v-583ae850": defineAsyncComponent(() => import(/* webpackChunkName: "v-583ae850" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Fracture.html.vue")),
+  // path: /maps/Haven.html
+  "v-356a7712": defineAsyncComponent(() => import(/* webpackChunkName: "v-356a7712" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Haven.html.vue")),
+  // path: /maps/Icebox.html
+  "v-d5b9724c": defineAsyncComponent(() => import(/* webpackChunkName: "v-d5b9724c" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Icebox.html.vue")),
+  // path: /maps/Lotus.html
+  "v-ad1039ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-ad1039ee" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Lotus.html.vue")),
+  // path: /maps/Pearl.html
+  "v-4f965ed2": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f965ed2" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Pearl.html.vue")),
+  // path: /maps/Split.html
+  "v-339f147e": defineAsyncComponent(() => import(/* webpackChunkName: "v-339f147e" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/maps/Split.html.vue")),
+  // path: /model/
+  "v-ec2f0342": defineAsyncComponent(() => import(/* webpackChunkName: "v-ec2f0342" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/model/index.html.vue")),
   // path: /recreation/
   "v-05314fc4": defineAsyncComponent(() => import(/* webpackChunkName: "v-05314fc4" */"W:/desktop/win10/valfansnew/docs/.vuepress/.temp/pages/recreation/index.html.vue")),
   // path: /story/
