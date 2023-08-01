@@ -3,7 +3,7 @@ img{
      border-radius:8px;
 }
 .container {
-    column-count: 3; /* 定义列数为3：将图片分为3列 */
+    column-count: 2; /* 定义列数为3：将图片分为3列 */
     column-gap: 20px; /* 每列间隔20px */
 }
 .image {
