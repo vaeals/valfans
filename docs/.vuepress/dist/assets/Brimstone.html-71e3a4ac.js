@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-05954c0a","path":"/line/Brimstone.html","title":"Brimstone 炼狱","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"line/Brimstone.md"}');export{t as data};

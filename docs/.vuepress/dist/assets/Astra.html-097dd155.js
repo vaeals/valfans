@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,b as s}from"./app-440bd369.js";const c={},o=e("h1",{id:"astra-星礈",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#astra-星礈","aria-hidden":"true"},"#"),s(" Astra 星礈")],-1),n=[o];function _(d,i){return t(),r("div",null,n)}const l=a(c,[["render",_],["__file","Astra.html.vue"]]);export{l as default};

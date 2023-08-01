@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as c}from"./app-440bd369.js";const o={},s=e("h1",{id:"chamber-尚勃勒",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#chamber-尚勃勒","aria-hidden":"true"},"#"),c(" Chamber 尚勃勒")],-1),n=[s];function _(h,d){return r(),t("div",null,n)}const m=a(o,[["render",_],["__file","Chamber.html.vue"]]);export{m as default};

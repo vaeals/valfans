@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,b as o}from"./app-440bd369.js";const c={},r=e("h1",{id:"omen-幽影",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#omen-幽影","aria-hidden":"true"},"#"),o(" Omen 幽影")],-1),s=[r];function _(d,i){return a(),n("div",null,s)}const h=t(c,[["render",_],["__file","Omen.html.vue"]]);export{h as default};

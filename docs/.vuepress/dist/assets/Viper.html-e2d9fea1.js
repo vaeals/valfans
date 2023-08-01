@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as a,a as e,b as c}from"./app-440bd369.js";const o={},s=e("h1",{id:"viper-蝰蛇",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#viper-蝰蛇","aria-hidden":"true"},"#"),c(" Viper 蝰蛇")],-1),i=[s];function n(_,d){return t(),a("div",null,i)}const l=r(o,[["render",n],["__file","Viper.html.vue"]]);export{l as default};

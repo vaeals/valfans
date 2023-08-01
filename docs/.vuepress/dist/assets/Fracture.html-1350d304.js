@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-583ae850","path":"/maps/Fracture.html","title":"FRACTURE-裂变峡谷","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"maps/Fracture.md"}');export{t as data};

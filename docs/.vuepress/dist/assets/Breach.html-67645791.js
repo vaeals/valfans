@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as r,a as e,b as t}from"./app-440bd369.js";const o={},s=e("h1",{id:"breach-铁臂",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#breach-铁臂","aria-hidden":"true"},"#"),t(" Breach 铁臂")],-1),n=[s];function _(h,d){return c(),r("div",null,n)}const l=a(o,[["render",_],["__file","Breach.html.vue"]]);export{l as default};

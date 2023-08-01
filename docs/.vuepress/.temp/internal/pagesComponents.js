@@ -5,6 +5,54 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /cos/
   "v-74457e01": defineAsyncComponent(() => import(/* webpackChunkName: "v-74457e01" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/cos/index.html.vue")),
+  // path: /hero/Agent.html
+  "v-f45c9ba0": defineAsyncComponent(() => import(/* webpackChunkName: "v-f45c9ba0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Agent.html.vue")),
+  // path: /hero/Astra.html
+  "v-42656084": defineAsyncComponent(() => import(/* webpackChunkName: "v-42656084" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Astra.html.vue")),
+  // path: /hero/Breach.html
+  "v-430b5928": defineAsyncComponent(() => import(/* webpackChunkName: "v-430b5928" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Breach.html.vue")),
+  // path: /hero/Brimstone.html
+  "v-62034178": defineAsyncComponent(() => import(/* webpackChunkName: "v-62034178" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Brimstone.html.vue")),
+  // path: /hero/Chamber.html
+  "v-983d9b92": defineAsyncComponent(() => import(/* webpackChunkName: "v-983d9b92" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Chamber.html.vue")),
+  // path: /hero/Cypher.html
+  "v-5b51ec3c": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b51ec3c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Cypher.html.vue")),
+  // path: /hero/Deadlock.html
+  "v-2df9bfee": defineAsyncComponent(() => import(/* webpackChunkName: "v-2df9bfee" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Deadlock.html.vue")),
+  // path: /hero/Fade.html
+  "v-2a1c6721": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a1c6721" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Fade.html.vue")),
+  // path: /hero/Gekko.html
+  "v-41e4c978": defineAsyncComponent(() => import(/* webpackChunkName: "v-41e4c978" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Gekko.html.vue")),
+  // path: /hero/Harbor.html
+  "v-c3a7e3de": defineAsyncComponent(() => import(/* webpackChunkName: "v-c3a7e3de" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Harbor.html.vue")),
+  // path: /hero/Jett.html
+  "v-faa187fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-faa187fc" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Jett.html.vue")),
+  // path: /hero/KAYO.html
+  "v-b044665e": defineAsyncComponent(() => import(/* webpackChunkName: "v-b044665e" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/KAYO.html.vue")),
+  // path: /hero/Killjoy.html
+  "v-659fbdc2": defineAsyncComponent(() => import(/* webpackChunkName: "v-659fbdc2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Killjoy.html.vue")),
+  // path: /hero/Neon.html
+  "v-7df687f2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7df687f2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Neon.html.vue")),
+  // path: /hero/Omen.html
+  "v-f9577d14": defineAsyncComponent(() => import(/* webpackChunkName: "v-f9577d14" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Omen.html.vue")),
+  // path: /hero/Phoenix.html
+  "v-e3a92a34": defineAsyncComponent(() => import(/* webpackChunkName: "v-e3a92a34" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Phoenix.html.vue")),
+  // path: /hero/Raze.html
+  "v-adca9a7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-adca9a7a" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Raze.html.vue")),
+  // path: /hero/
+  "v-14ac301c": defineAsyncComponent(() => import(/* webpackChunkName: "v-14ac301c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/index.html.vue")),
+  // path: /hero/Reyna.html
+  "v-d9567648": defineAsyncComponent(() => import(/* webpackChunkName: "v-d9567648" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Reyna.html.vue")),
+  // path: /hero/Sage.html
+  "v-5048bbf1": defineAsyncComponent(() => import(/* webpackChunkName: "v-5048bbf1" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sage.html.vue")),
+  // path: /hero/Skye.html
+  "v-1744a739": defineAsyncComponent(() => import(/* webpackChunkName: "v-1744a739" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Skye.html.vue")),
+  // path: /hero/Sova.html
+  "v-11434676": defineAsyncComponent(() => import(/* webpackChunkName: "v-11434676" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sova.html.vue")),
+  // path: /hero/Viper.html
+  "v-4f8bfecb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f8bfecb" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Viper.html.vue")),
+  // path: /model/
+  "v-ec2f0342": defineAsyncComponent(() => import(/* webpackChunkName: "v-ec2f0342" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/model/index.html.vue")),
   // path: /maps/Ascent.html
   "v-05f5cda0": defineAsyncComponent(() => import(/* webpackChunkName: "v-05f5cda0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/maps/Ascent.html.vue")),
   // path: /maps/Bind.html
@@ -69,54 +117,6 @@ export const pagesComponents = {
   "v-6310f5f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-6310f5f0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/line/Sova.html.vue")),
   // path: /line/Viper.html
   "v-37743e91": defineAsyncComponent(() => import(/* webpackChunkName: "v-37743e91" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/line/Viper.html.vue")),
-  // path: /hero/Agent.html
-  "v-f45c9ba0": defineAsyncComponent(() => import(/* webpackChunkName: "v-f45c9ba0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Agent.html.vue")),
-  // path: /hero/Astra.html
-  "v-42656084": defineAsyncComponent(() => import(/* webpackChunkName: "v-42656084" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Astra.html.vue")),
-  // path: /hero/Breach.html
-  "v-430b5928": defineAsyncComponent(() => import(/* webpackChunkName: "v-430b5928" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Breach.html.vue")),
-  // path: /hero/Brimstone.html
-  "v-62034178": defineAsyncComponent(() => import(/* webpackChunkName: "v-62034178" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Brimstone.html.vue")),
-  // path: /hero/Chamber.html
-  "v-983d9b92": defineAsyncComponent(() => import(/* webpackChunkName: "v-983d9b92" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Chamber.html.vue")),
-  // path: /hero/Cypher.html
-  "v-5b51ec3c": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b51ec3c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Cypher.html.vue")),
-  // path: /hero/Deadlock.html
-  "v-2df9bfee": defineAsyncComponent(() => import(/* webpackChunkName: "v-2df9bfee" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Deadlock.html.vue")),
-  // path: /hero/Fade.html
-  "v-2a1c6721": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a1c6721" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Fade.html.vue")),
-  // path: /hero/Gekko.html
-  "v-41e4c978": defineAsyncComponent(() => import(/* webpackChunkName: "v-41e4c978" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Gekko.html.vue")),
-  // path: /hero/Harbor.html
-  "v-c3a7e3de": defineAsyncComponent(() => import(/* webpackChunkName: "v-c3a7e3de" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Harbor.html.vue")),
-  // path: /hero/Jett.html
-  "v-faa187fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-faa187fc" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Jett.html.vue")),
-  // path: /hero/KAYO.html
-  "v-b044665e": defineAsyncComponent(() => import(/* webpackChunkName: "v-b044665e" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/KAYO.html.vue")),
-  // path: /hero/Killjoy.html
-  "v-659fbdc2": defineAsyncComponent(() => import(/* webpackChunkName: "v-659fbdc2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Killjoy.html.vue")),
-  // path: /hero/Neon.html
-  "v-7df687f2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7df687f2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Neon.html.vue")),
-  // path: /hero/Omen.html
-  "v-f9577d14": defineAsyncComponent(() => import(/* webpackChunkName: "v-f9577d14" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Omen.html.vue")),
-  // path: /hero/Phoenix.html
-  "v-e3a92a34": defineAsyncComponent(() => import(/* webpackChunkName: "v-e3a92a34" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Phoenix.html.vue")),
-  // path: /hero/Raze.html
-  "v-adca9a7a": defineAsyncComponent(() => import(/* webpackChunkName: "v-adca9a7a" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Raze.html.vue")),
-  // path: /hero/
-  "v-14ac301c": defineAsyncComponent(() => import(/* webpackChunkName: "v-14ac301c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/index.html.vue")),
-  // path: /hero/Reyna.html
-  "v-d9567648": defineAsyncComponent(() => import(/* webpackChunkName: "v-d9567648" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Reyna.html.vue")),
-  // path: /hero/Sage.html
-  "v-5048bbf1": defineAsyncComponent(() => import(/* webpackChunkName: "v-5048bbf1" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sage.html.vue")),
-  // path: /hero/Skye.html
-  "v-1744a739": defineAsyncComponent(() => import(/* webpackChunkName: "v-1744a739" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Skye.html.vue")),
-  // path: /hero/Sova.html
-  "v-11434676": defineAsyncComponent(() => import(/* webpackChunkName: "v-11434676" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sova.html.vue")),
-  // path: /hero/Viper.html
-  "v-4f8bfecb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f8bfecb" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Viper.html.vue")),
-  // path: /model/
-  "v-ec2f0342": defineAsyncComponent(() => import(/* webpackChunkName: "v-ec2f0342" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/model/index.html.vue")),
   // path: /recreation/
   "v-05314fc4": defineAsyncComponent(() => import(/* webpackChunkName: "v-05314fc4" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/recreation/index.html.vue")),
   // path: /story/

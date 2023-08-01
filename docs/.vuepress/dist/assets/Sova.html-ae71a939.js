@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,a as e,b as s}from"./app-440bd369.js";const c={},r=e("h1",{id:"sova-猎枭",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sova-猎枭","aria-hidden":"true"},"#"),s(" Sova 猎枭")],-1),n=[r];function _(d,i){return o(),t("div",null,n)}const l=a(c,[["render",_],["__file","Sova.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-304c02ff","path":"/maps/Breeze.html","title":"BREEZE-微风岛屿","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"maps/Breeze.md"}');export{e as data};

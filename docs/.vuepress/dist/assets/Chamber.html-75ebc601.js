@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-42b8987d","path":"/line/Chamber.html","title":"Chamber 尚勃勒","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"line/Chamber.md"}');export{e as data};

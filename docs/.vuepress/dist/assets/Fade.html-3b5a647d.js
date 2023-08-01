@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as d}from"./app-440bd369.js";const o={},r=e("h1",{id:"fade-黑梦",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fade-黑梦","aria-hidden":"true"},"#"),d(" Fade 黑梦")],-1),s=[r];function n(_,i){return t(),c("div",null,s)}const h=a(o,[["render",n],["__file","Fade.html.vue"]]);export{h as default};

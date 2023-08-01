@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as a,a as e,b as o}from"./app-440bd369.js";const r={},n=e("div",{align:"center"},[e("h1",{id:"icebox-极地寒港",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#icebox-极地寒港","aria-hidden":"true"},"#"),o(" ICEBOX-极地寒港")])],-1),s=[n];function _(i,d){return t(),a("div",null,s)}const h=c(r,[["render",_],["__file","Icebox.html.vue"]]);export{h as default};

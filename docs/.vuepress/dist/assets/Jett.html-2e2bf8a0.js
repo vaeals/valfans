@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-440bd369.js";const r={},s=e("h1",{id:"jeet-捷风",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#jeet-捷风","aria-hidden":"true"},"#"),o(" Jeet 捷风")],-1),n=[s];function _(d,i){return a(),c("div",null,n)}const l=t(r,[["render",_],["__file","Jett.html.vue"]]);export{l as default};

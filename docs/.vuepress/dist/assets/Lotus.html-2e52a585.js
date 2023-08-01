@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as s}from"./app-440bd369.js";const c={},r=e("div",{align:"center"},[e("h1",{id:"lotus-莲华古城",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#lotus-莲华古城","aria-hidden":"true"},"#"),s(" LOTUS 莲华古城")])],-1),n=[r];function _(d,i){return a(),o("div",null,n)}const h=t(c,[["render",_],["__file","Lotus.html.vue"]]);export{h as default};

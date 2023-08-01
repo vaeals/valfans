@@ -1,0 +1,1 @@
+import{_ as t,o,c as r,a as e,b as s}from"./app-440bd369.js";const a={},n=e("h1",{id:"brimstone-炼狱",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#brimstone-炼狱","aria-hidden":"true"},"#"),s(" Brimstone 炼狱")],-1),c=[n];function i(_,d){return o(),r("div",null,c)}const h=t(a,[["render",i],["__file","Brimstone.html.vue"]]);export{h as default};

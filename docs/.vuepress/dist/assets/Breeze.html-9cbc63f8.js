@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as a,a as e,b as c}from"./app-440bd369.js";const n={},o=e("div",{align:"center"},[e("h1",{id:"breeze-微风岛屿",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#breeze-微风岛屿","aria-hidden":"true"},"#"),c(" BREEZE-微风岛屿")])],-1),s=[o];function _(d,i){return t(),a("div",null,s)}const h=r(n,[["render",_],["__file","Breeze.html.vue"]]);export{h as default};

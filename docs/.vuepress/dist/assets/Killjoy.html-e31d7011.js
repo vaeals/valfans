@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as l}from"./app-440bd369.js";const c={},r=e("h1",{id:"killjoy-奇乐",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#killjoy-奇乐","aria-hidden":"true"},"#"),l(" Killjoy 奇乐")],-1),s=[r];function i(n,_){return t(),a("div",null,s)}const h=o(c,[["render",i],["__file","Killjoy.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as c}from"./app-440bd369.js";const r={},s=e("h1",{id:"gekko-盖克",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#gekko-盖克","aria-hidden":"true"},"#"),c(" Gekko 盖克")],-1),n=[s];function _(d,k){return t(),a("div",null,n)}const h=o(r,[["render",_],["__file","Gekko.html.vue"]]);export{h as default};

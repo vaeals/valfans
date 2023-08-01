@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4829f9c2","path":"/wallpaper/Wallpapers.html","title":"壁纸","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"wallpaper/Wallpapers.md"}');export{a as data};

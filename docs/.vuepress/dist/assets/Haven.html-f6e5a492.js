@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as n,a as e,b as c}from"./app-440bd369.js";const r={},o=e("div",{align:"center"},[e("h1",{id:"haven-隐士修所",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#haven-隐士修所","aria-hidden":"true"},"#"),c(" HAVEN-隐士修所")])],-1),s=[o];function _(d,i){return t(),n("div",null,s)}const l=a(r,[["render",_],["__file","Haven.html.vue"]]);export{l as default};

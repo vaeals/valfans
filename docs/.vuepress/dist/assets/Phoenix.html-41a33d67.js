@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as n}from"./app-440bd369.js";const c={},r=e("h1",{id:"phoenix-不死鸟",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#phoenix-不死鸟","aria-hidden":"true"},"#"),n(" Phoenix 不死鸟")],-1),s=[r];function i(_,h){return t(),a("div",null,s)}const l=o(c,[["render",i],["__file","Phoenix.html.vue"]]);export{l as default};

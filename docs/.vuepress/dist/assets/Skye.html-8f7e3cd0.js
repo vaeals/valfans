@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,a as e,b as c}from"./app-440bd369.js";const o={},r=e("h1",{id:"skye-斯凯",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#skye-斯凯","aria-hidden":"true"},"#"),c(" Skye 斯凯")],-1),n=[r];function _(d,i){return a(),s("div",null,n)}const l=t(o,[["render",_],["__file","Skye.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as a,a as e,b as c}from"./app-440bd369.js";const n={},o=e("div",{align:"center"},[e("h1",{id:"fracture-裂变峡谷",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fracture-裂变峡谷","aria-hidden":"true"},"#"),c(" FRACTURE-裂变峡谷")])],-1),s=[o];function _(d,i){return t(),a("div",null,s)}const f=r(n,[["render",_],["__file","Fracture.html.vue"]]);export{f as default};

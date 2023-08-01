@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d02d12c","path":"/line/Phoenix.html","title":"Phoenix 不死鸟","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"line/Phoenix.md"}');export{e as data};

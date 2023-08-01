@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,a as e,b as c}from"./app-440bd369.js";const r={},s=e("h1",{id:"kay-o-k-o",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#kay-o-k-o","aria-hidden":"true"},"#"),c(" KAY/O K/O")],-1),n=[s];function _(d,i){return o(),t("div",null,n)}const l=a(r,[["render",_],["__file","KAYO.html.vue"]]);export{l as default};

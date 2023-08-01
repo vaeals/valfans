@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as o}from"./app-440bd369.js";const s={},n=e("h1",{id:"cosplay",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#cosplay","aria-hidden":"true"},"#"),o(" CosPlay")],-1),r=[n];function _(d,i){return t(),c("div",null,r)}const h=a(s,[["render",_],["__file","index.html.vue"]]);export{h as default};

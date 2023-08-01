@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,a as e,b as c}from"./app-440bd369.js";const o={},r=e("h1",{id:"sage-贤者",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sage-贤者","aria-hidden":"true"},"#"),c(" Sage 贤者")],-1),n=[r];function _(d,i){return t(),s("div",null,n)}const l=a(o,[["render",_],["__file","Sage.html.vue"]]);export{l as default};

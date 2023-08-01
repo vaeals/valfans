@@ -3,6 +3,54 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /cos/
   "v-74457e01": () => import(/* webpackChunkName: "v-74457e01" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/cos/index.html.js").then(({ data }) => data),
+  // path: /hero/Agent.html
+  "v-f45c9ba0": () => import(/* webpackChunkName: "v-f45c9ba0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Agent.html.js").then(({ data }) => data),
+  // path: /hero/Astra.html
+  "v-42656084": () => import(/* webpackChunkName: "v-42656084" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Astra.html.js").then(({ data }) => data),
+  // path: /hero/Breach.html
+  "v-430b5928": () => import(/* webpackChunkName: "v-430b5928" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Breach.html.js").then(({ data }) => data),
+  // path: /hero/Brimstone.html
+  "v-62034178": () => import(/* webpackChunkName: "v-62034178" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Brimstone.html.js").then(({ data }) => data),
+  // path: /hero/Chamber.html
+  "v-983d9b92": () => import(/* webpackChunkName: "v-983d9b92" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Chamber.html.js").then(({ data }) => data),
+  // path: /hero/Cypher.html
+  "v-5b51ec3c": () => import(/* webpackChunkName: "v-5b51ec3c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Cypher.html.js").then(({ data }) => data),
+  // path: /hero/Deadlock.html
+  "v-2df9bfee": () => import(/* webpackChunkName: "v-2df9bfee" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Deadlock.html.js").then(({ data }) => data),
+  // path: /hero/Fade.html
+  "v-2a1c6721": () => import(/* webpackChunkName: "v-2a1c6721" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Fade.html.js").then(({ data }) => data),
+  // path: /hero/Gekko.html
+  "v-41e4c978": () => import(/* webpackChunkName: "v-41e4c978" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Gekko.html.js").then(({ data }) => data),
+  // path: /hero/Harbor.html
+  "v-c3a7e3de": () => import(/* webpackChunkName: "v-c3a7e3de" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Harbor.html.js").then(({ data }) => data),
+  // path: /hero/Jett.html
+  "v-faa187fc": () => import(/* webpackChunkName: "v-faa187fc" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Jett.html.js").then(({ data }) => data),
+  // path: /hero/KAYO.html
+  "v-b044665e": () => import(/* webpackChunkName: "v-b044665e" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/KAYO.html.js").then(({ data }) => data),
+  // path: /hero/Killjoy.html
+  "v-659fbdc2": () => import(/* webpackChunkName: "v-659fbdc2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Killjoy.html.js").then(({ data }) => data),
+  // path: /hero/Neon.html
+  "v-7df687f2": () => import(/* webpackChunkName: "v-7df687f2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Neon.html.js").then(({ data }) => data),
+  // path: /hero/Omen.html
+  "v-f9577d14": () => import(/* webpackChunkName: "v-f9577d14" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Omen.html.js").then(({ data }) => data),
+  // path: /hero/Phoenix.html
+  "v-e3a92a34": () => import(/* webpackChunkName: "v-e3a92a34" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Phoenix.html.js").then(({ data }) => data),
+  // path: /hero/Raze.html
+  "v-adca9a7a": () => import(/* webpackChunkName: "v-adca9a7a" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Raze.html.js").then(({ data }) => data),
+  // path: /hero/
+  "v-14ac301c": () => import(/* webpackChunkName: "v-14ac301c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/index.html.js").then(({ data }) => data),
+  // path: /hero/Reyna.html
+  "v-d9567648": () => import(/* webpackChunkName: "v-d9567648" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Reyna.html.js").then(({ data }) => data),
+  // path: /hero/Sage.html
+  "v-5048bbf1": () => import(/* webpackChunkName: "v-5048bbf1" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sage.html.js").then(({ data }) => data),
+  // path: /hero/Skye.html
+  "v-1744a739": () => import(/* webpackChunkName: "v-1744a739" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Skye.html.js").then(({ data }) => data),
+  // path: /hero/Sova.html
+  "v-11434676": () => import(/* webpackChunkName: "v-11434676" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sova.html.js").then(({ data }) => data),
+  // path: /hero/Viper.html
+  "v-4f8bfecb": () => import(/* webpackChunkName: "v-4f8bfecb" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Viper.html.js").then(({ data }) => data),
+  // path: /model/
+  "v-ec2f0342": () => import(/* webpackChunkName: "v-ec2f0342" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/model/index.html.js").then(({ data }) => data),
   // path: /maps/Ascent.html
   "v-05f5cda0": () => import(/* webpackChunkName: "v-05f5cda0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/maps/Ascent.html.js").then(({ data }) => data),
   // path: /maps/Bind.html
@@ -67,54 +115,6 @@ export const pagesData = {
   "v-6310f5f0": () => import(/* webpackChunkName: "v-6310f5f0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/line/Sova.html.js").then(({ data }) => data),
   // path: /line/Viper.html
   "v-37743e91": () => import(/* webpackChunkName: "v-37743e91" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/line/Viper.html.js").then(({ data }) => data),
-  // path: /hero/Agent.html
-  "v-f45c9ba0": () => import(/* webpackChunkName: "v-f45c9ba0" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Agent.html.js").then(({ data }) => data),
-  // path: /hero/Astra.html
-  "v-42656084": () => import(/* webpackChunkName: "v-42656084" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Astra.html.js").then(({ data }) => data),
-  // path: /hero/Breach.html
-  "v-430b5928": () => import(/* webpackChunkName: "v-430b5928" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Breach.html.js").then(({ data }) => data),
-  // path: /hero/Brimstone.html
-  "v-62034178": () => import(/* webpackChunkName: "v-62034178" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Brimstone.html.js").then(({ data }) => data),
-  // path: /hero/Chamber.html
-  "v-983d9b92": () => import(/* webpackChunkName: "v-983d9b92" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Chamber.html.js").then(({ data }) => data),
-  // path: /hero/Cypher.html
-  "v-5b51ec3c": () => import(/* webpackChunkName: "v-5b51ec3c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Cypher.html.js").then(({ data }) => data),
-  // path: /hero/Deadlock.html
-  "v-2df9bfee": () => import(/* webpackChunkName: "v-2df9bfee" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Deadlock.html.js").then(({ data }) => data),
-  // path: /hero/Fade.html
-  "v-2a1c6721": () => import(/* webpackChunkName: "v-2a1c6721" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Fade.html.js").then(({ data }) => data),
-  // path: /hero/Gekko.html
-  "v-41e4c978": () => import(/* webpackChunkName: "v-41e4c978" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Gekko.html.js").then(({ data }) => data),
-  // path: /hero/Harbor.html
-  "v-c3a7e3de": () => import(/* webpackChunkName: "v-c3a7e3de" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Harbor.html.js").then(({ data }) => data),
-  // path: /hero/Jett.html
-  "v-faa187fc": () => import(/* webpackChunkName: "v-faa187fc" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Jett.html.js").then(({ data }) => data),
-  // path: /hero/KAYO.html
-  "v-b044665e": () => import(/* webpackChunkName: "v-b044665e" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/KAYO.html.js").then(({ data }) => data),
-  // path: /hero/Killjoy.html
-  "v-659fbdc2": () => import(/* webpackChunkName: "v-659fbdc2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Killjoy.html.js").then(({ data }) => data),
-  // path: /hero/Neon.html
-  "v-7df687f2": () => import(/* webpackChunkName: "v-7df687f2" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Neon.html.js").then(({ data }) => data),
-  // path: /hero/Omen.html
-  "v-f9577d14": () => import(/* webpackChunkName: "v-f9577d14" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Omen.html.js").then(({ data }) => data),
-  // path: /hero/Phoenix.html
-  "v-e3a92a34": () => import(/* webpackChunkName: "v-e3a92a34" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Phoenix.html.js").then(({ data }) => data),
-  // path: /hero/Raze.html
-  "v-adca9a7a": () => import(/* webpackChunkName: "v-adca9a7a" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Raze.html.js").then(({ data }) => data),
-  // path: /hero/
-  "v-14ac301c": () => import(/* webpackChunkName: "v-14ac301c" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/index.html.js").then(({ data }) => data),
-  // path: /hero/Reyna.html
-  "v-d9567648": () => import(/* webpackChunkName: "v-d9567648" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Reyna.html.js").then(({ data }) => data),
-  // path: /hero/Sage.html
-  "v-5048bbf1": () => import(/* webpackChunkName: "v-5048bbf1" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sage.html.js").then(({ data }) => data),
-  // path: /hero/Skye.html
-  "v-1744a739": () => import(/* webpackChunkName: "v-1744a739" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Skye.html.js").then(({ data }) => data),
-  // path: /hero/Sova.html
-  "v-11434676": () => import(/* webpackChunkName: "v-11434676" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Sova.html.js").then(({ data }) => data),
-  // path: /hero/Viper.html
-  "v-4f8bfecb": () => import(/* webpackChunkName: "v-4f8bfecb" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/hero/Viper.html.js").then(({ data }) => data),
-  // path: /model/
-  "v-ec2f0342": () => import(/* webpackChunkName: "v-ec2f0342" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/model/index.html.js").then(({ data }) => data),
   // path: /recreation/
   "v-05314fc4": () => import(/* webpackChunkName: "v-05314fc4" */"D:/Valorant/ValFans/code/valfans/docs/.vuepress/.temp/pages/recreation/index.html.js").then(({ data }) => data),
   // path: /story/

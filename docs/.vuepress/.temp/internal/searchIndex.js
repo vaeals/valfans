@@ -14,230 +14,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "ASCENT-亚海悬城",
-    "headers": [],
-    "path": "/maps/Ascent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "BIND-源镇重工",
-    "headers": [],
-    "path": "/maps/Bind.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "BREEZE-微风岛屿",
-    "headers": [],
-    "path": "/maps/Breeze.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "FRACTURE-裂变峡谷",
-    "headers": [],
-    "path": "/maps/Fracture.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "HAVEN-隐士修所",
-    "headers": [],
-    "path": "/maps/Haven.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "ICEBOX-极地寒港",
-    "headers": [],
-    "path": "/maps/Icebox.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "LOTUS 莲华古城",
-    "headers": [],
-    "path": "/maps/Lotus.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "PEARL-深海明珠",
-    "headers": [],
-    "path": "/maps/Pearl.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "SPLIT-霓虹町",
-    "headers": [],
-    "path": "/maps/Split.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Agent 夜戮",
-    "headers": [],
-    "path": "/line/Agent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Astra 星礈",
-    "headers": [],
-    "path": "/line/Astra.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Breach 铁臂",
-    "headers": [],
-    "path": "/line/Breach.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Brimstone 炼狱",
-    "headers": [],
-    "path": "/line/Brimstone.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Chamber 尚勃勒",
-    "headers": [],
-    "path": "/line/Chamber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cypher 零",
-    "headers": [],
-    "path": "/line/Cypher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deadlock 钢锁",
-    "headers": [],
-    "path": "/line/Deadlock.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fade 黑梦",
-    "headers": [],
-    "path": "/line/Fade.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Gekko 盖克",
-    "headers": [],
-    "path": "/line/Gekko.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Harbor 海神",
-    "headers": [],
-    "path": "/line/Harbor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jeet 捷风",
-    "headers": [],
-    "path": "/line/Jett.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "KAY/O K/O",
-    "headers": [],
-    "path": "/line/KAYO.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killjoy 奇乐",
-    "headers": [],
-    "path": "/line/Killjoy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Neon 霓虹",
-    "headers": [],
-    "path": "/line/Neon.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Omen 幽影",
-    "headers": [],
-    "path": "/line/Omen.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Phoenix 不死鸟",
-    "headers": [],
-    "path": "/line/Phoenix.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Raze 雷兹",
-    "headers": [],
-    "path": "/line/Raze.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "英雄语音",
-    "headers": [],
-    "path": "/line/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reyna 芮娜",
-    "headers": [],
-    "path": "/line/Reyna.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sage 贤者",
-    "headers": [],
-    "path": "/line/Sage.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Skye 斯凯",
-    "headers": [],
-    "path": "/line/Skye.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sova 猎枭",
-    "headers": [],
-    "path": "/line/Sova.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Viper 蝰蛇",
-    "headers": [],
-    "path": "/line/Viper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Agent 夜戮",
     "headers": [
       {
@@ -1044,6 +820,230 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "ASCENT-亚海悬城",
+    "headers": [],
+    "path": "/maps/Ascent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "BIND-源镇重工",
+    "headers": [],
+    "path": "/maps/Bind.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "BREEZE-微风岛屿",
+    "headers": [],
+    "path": "/maps/Breeze.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "FRACTURE-裂变峡谷",
+    "headers": [],
+    "path": "/maps/Fracture.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "HAVEN-隐士修所",
+    "headers": [],
+    "path": "/maps/Haven.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "ICEBOX-极地寒港",
+    "headers": [],
+    "path": "/maps/Icebox.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "LOTUS 莲华古城",
+    "headers": [],
+    "path": "/maps/Lotus.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "PEARL-深海明珠",
+    "headers": [],
+    "path": "/maps/Pearl.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "SPLIT-霓虹町",
+    "headers": [],
+    "path": "/maps/Split.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Agent 夜戮",
+    "headers": [],
+    "path": "/line/Agent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Astra 星礈",
+    "headers": [],
+    "path": "/line/Astra.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Breach 铁臂",
+    "headers": [],
+    "path": "/line/Breach.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Brimstone 炼狱",
+    "headers": [],
+    "path": "/line/Brimstone.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Chamber 尚勃勒",
+    "headers": [],
+    "path": "/line/Chamber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cypher 零",
+    "headers": [],
+    "path": "/line/Cypher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deadlock 钢锁",
+    "headers": [],
+    "path": "/line/Deadlock.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fade 黑梦",
+    "headers": [],
+    "path": "/line/Fade.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Gekko 盖克",
+    "headers": [],
+    "path": "/line/Gekko.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Harbor 海神",
+    "headers": [],
+    "path": "/line/Harbor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jeet 捷风",
+    "headers": [],
+    "path": "/line/Jett.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "KAY/O K/O",
+    "headers": [],
+    "path": "/line/KAYO.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killjoy 奇乐",
+    "headers": [],
+    "path": "/line/Killjoy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Neon 霓虹",
+    "headers": [],
+    "path": "/line/Neon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Omen 幽影",
+    "headers": [],
+    "path": "/line/Omen.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phoenix 不死鸟",
+    "headers": [],
+    "path": "/line/Phoenix.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Raze 雷兹",
+    "headers": [],
+    "path": "/line/Raze.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "英雄语音",
+    "headers": [],
+    "path": "/line/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reyna 芮娜",
+    "headers": [],
+    "path": "/line/Reyna.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sage 贤者",
+    "headers": [],
+    "path": "/line/Sage.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Skye 斯凯",
+    "headers": [],
+    "path": "/line/Skye.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sova 猎枭",
+    "headers": [],
+    "path": "/line/Sova.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Viper 蝰蛇",
+    "headers": [],
+    "path": "/line/Viper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "二创作品",
     "headers": [],
     "path": "/recreation/",
@@ -1144,16 +1144,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

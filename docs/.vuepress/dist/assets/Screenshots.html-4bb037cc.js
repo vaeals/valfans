@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16dda91c","path":"/wallpaper/Screenshots.html","title":"截屏","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"wallpaper/Screenshots.md"}');export{e as data};

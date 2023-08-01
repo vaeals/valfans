@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,b as c}from"./app-440bd369.js";const o={},s=e("h1",{id:"raze-雷兹",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#raze-雷兹","aria-hidden":"true"},"#"),c(" Raze 雷兹")],-1),n=[s];function _(d,i){return t(),r("div",null,n)}const l=a(o,[["render",_],["__file","Raze.html.vue"]]);export{l as default};

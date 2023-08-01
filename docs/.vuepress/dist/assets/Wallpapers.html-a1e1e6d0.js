@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,b as s}from"./app-440bd369.js";const c={},o=e("h1",{id:"壁纸",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#壁纸","aria-hidden":"true"},"#"),s(" 壁纸")],-1),n=[o];function _(l,d){return t(),r("div",null,n)}const h=a(c,[["render",_],["__file","Wallpapers.html.vue"]]);export{h as default};
