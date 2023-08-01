@@ -131,7 +131,6 @@
 <style>
 img{
      border-radius:8px;
-     border: solid #ff4655;
 }
 .container {
     column-count: 3; /* 定义列数为3：将图片分为3列 */
